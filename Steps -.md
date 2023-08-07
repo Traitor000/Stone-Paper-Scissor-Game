@@ -1,5 +1,4 @@
-Steps - 
-// Can use boilerplate code from https://socket.io/get-started/chat
+
 
 0. Create rock_paper_scissors folder
 1. Create node app with index.js and npm init
